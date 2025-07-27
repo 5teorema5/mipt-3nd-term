@@ -1,0 +1,6 @@
+Ivanov;5
+Petrov;2
+Sidorov;5
+Fedorov;5
+Konuhov;5
+Vladimirov;5
